@@ -8,7 +8,7 @@
 			"warningTitle": "Developer Beta",
 			"warningMessage": "This system is only available to developers, and it's currently in Beta.",
 			"warningSidenote": "Do not redistribute or share any information without permission",
-			"warningDisablePOS": "false",
+			"warningDisablePOS": false,
 			"versionsAffected": "all"
 		},
 		"versionDisablement": [
@@ -24,7 +24,7 @@
 			"warningTitle": "Nuclear Vulnerability",
 			"warningMessage": "This system is filled with nuclear toiletpaper...",
 			"warningSidenote": "Proceed with caution............",
-			"warningDisablePOS": "false",
+			"warningDisablePOS": false,
 			"versionsAffected": "<1.0.0"
 		},
 		"versionDisablement": [
@@ -43,7 +43,7 @@
 			"warningTitle": "Nuclear Vulnerability",
 			"warningMessage": "This system is filled with nuclear toiletpaper...",
 			"warningSidenote": "Proceed with caution............",
-			"warningDisablePOS": "false",
+			"warningDisablePOS": false,
 			"versionsAffected": "<1.0.0"
 		},
 		"versionDisablement": [
