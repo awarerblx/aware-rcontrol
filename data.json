@@ -1,21 +1,18 @@
 {
 	"RESTAURANT": {
 		"warning": {
-			"AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
+			"AvailableIcons": "Warning or Error or Question << DONT ENTER HERE! ENTER IT IN 'WARNINGICON' >>",
 			"warningActive": true,
-			"FunnyMessage": "Uh-oh, we found a testing issue",
-			"warningIcon": "warning",
-			"warningTitle": "Nuclear Vulnerability",
-			"warningMessage": "We're quite obviously testing rControl, this is a bit filled with useless information, but this is what's gonna show up in your game, if WarningDisablePOS is on (because of a vulnerability) it locks the POS and only shows this message.",
-			"warningSidenote": "Proceed with caution............",
+			"FunnyMessage": "No Message Set",
+			"warningIcon": "Warning",
+			"warningTitle": "Developer Beta",
+			"warningMessage": "This system is only available to developers, and it's currently in Beta.",
+			"warningSidenote": "Do not redistribute or share any information without permission",
 			"warningDisablePOS": "false",
-			"versionsAffected": "<1.0.0"
+			"versionsAffected": "all"
 		},
 		"versionDisablement": [
-			"1.0.0",
-			"1.0.1",
-			"1.0.2",
-			"1.0.3"
+			"0.0.1"
 		]
 	},
 	"TICKETPOS": {
