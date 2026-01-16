@@ -52,5 +52,24 @@
 			"1.0.2",
 			"1.0.3"
 		]
+	},
+	"RCONTROLTEST": {
+		"warning": {
+			"AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
+			"warningActive": true,
+			"FunnyMessage": "oh noes rcontrol actually works",
+			"warningIcon": "warning",
+			"warningTitle": "this is a title",
+			"warningMessage": "this is a message",
+			"warningSidenote": "this is a sidenote",
+			"warningDisablePOS": false,
+			"versionsAffected": "<1.0.0"
+		},
+		"versionDisablement": [
+			"1.0.0",
+			"1.0.1",
+			"1.0.2",
+			"1.0.3"
+		]
 	}
 }
