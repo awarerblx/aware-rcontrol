@@ -8,5 +8,6 @@ An all in one custom made client to help keep your products up-to-date and secur
 
 - [@tedrob17](https://github.com/tedrob17)
 - [@tmrxdev](https://github.com/tmrxdev)
+- [@pilot-773](https://github.com/pilot-773)
 
 
