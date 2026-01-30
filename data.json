@@ -18,14 +18,14 @@
 	"TICKETPOS": {
 		"warning": {
 			"AvailableIcons": "Warning or Error or Question - This here isn't used in the code, consider it a comment (json hates comments)",
-			"warningActive": false,
+			"warningActive": true,
 			"FunnyMessage": "Uh-oh, we found a critical issue",
 			"warningIcon": "warning",
-			"warningTitle": "Nuclear Vulnerability",
-			"warningMessage": "This system is filled with nuclear toiletpaper...",
-			"warningSidenote": "Proceed with caution............",
+			"warningTitle": "There's a issue right now.",
+			"warningMessage": "Please await a fix, and once available download it.",
+			"warningSidenote": "Your POS may not work.",
 			"warningDisablePOS": false,
-			"versionsAffected": "<1.0.0"
+			"versionsAffected": "2.2"
 		},
 		"versionDisablement": [
 			"1.0.0",
